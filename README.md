@@ -25,7 +25,6 @@ Welcome to the **TIGER Grand Challenge** repository! This project focuses on dev
 8. [Results](#results)
 9. [Challenges](#challenges)
 10. [Contributing](#contributing)
-11. [License](#license)
 
 ## Introduction
 
